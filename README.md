@@ -72,10 +72,6 @@ Currently learning: **TypeScript**, **Angular**, and applying Java for game prot
 - Followers: **0**
 - Following: **0**
 
-![Xabier's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xbilbaoo&show_icons=true&theme=default&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xbilbaoo&layout=compact&theme=default)
-
 (You can pin repositories on your profile to highlight them. I recommend pinning LearningFactory, ANGULAR and SpaceInvaderClon.)
 
 ## Recent Activity
@@ -95,9 +91,7 @@ Here are the latest events from the GitHub activity feed:
 
 (These events show active development on coursework and game projects.)
 
-## Connect with Me
-
-### Connect with Me 🌐
+## Connect with Me 🌐
 
 - 🐱 GitHub: [github.com/Xbilbaoo](https://github.com/Xbilbaoo)
 - 💼 LinkedIn: [Xabier Bilbao Zamora](www.linkedin.com/in/xabier-bilbao-zamora-b6a399361) 
