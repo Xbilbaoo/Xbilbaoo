@@ -1,7 +1,5 @@
 ## Hi there! 👋
 
-### Hi there! 👋
-
 I'm **Xabier Bilbao Zamora** — a DAW (Web Developing) student building practical projects and course repositories for classmates and learning by doing. 
 
 🚀 Tagline: Turning classroom assignments into real projects — curious, collaborative, and always shipping code.
